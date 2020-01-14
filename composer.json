@@ -1,0 +1,11 @@
+{
+    "name": "shell/laravel-auth",
+    "type": "library",
+    "authors": [
+        {
+            "name": "shellus",
+            "email": "shellus@endaosi.com"
+        }
+    ],
+    "require": {}
+}
