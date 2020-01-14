@@ -7,5 +7,10 @@
             "email": "shellus@endaosi.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Shellus\\LaravelAuth\\": "src"
+        }
+    },
     "require": {}
 }
