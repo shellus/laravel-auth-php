@@ -8,6 +8,7 @@ laravel jwt 对接vue前端的扩展
 ## 使用
 1. 执行 `composer require shellus/laravel-auth`
 2. 在 `config/app.php` 添加提供者 `\Shellus\LaravelAuth\AuthProvider::class`
+3. 在前端项目添加 `https://www.npmjs.com/package/laravel-auth`
 
 ### 注意
 
